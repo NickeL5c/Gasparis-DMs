@@ -1,8 +1,12 @@
 # Based on the Google WebXR Tutorial and @BraydenJenkin's platform, Google's README is below
 
+Pages link to app: https://nickel5c.github.io/Gasparis-DMs/exp3/
+
 Had a lot of fun learning about aframe, THREE, and CSS quirks in this project.
 
 Looking forward to upcoming feedback and future iterations!
+
+This experience currently only works on WebXR-supported devices. If a user attempts to access the experience on a non-WebXR device, it will throw a 404 error. I plan on getting the non-WebXR version completed by March 17th.
 
 # Building an augmented reality application with the WebXR Device API
 
