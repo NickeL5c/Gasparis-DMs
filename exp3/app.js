@@ -34,7 +34,7 @@ var descriptions =
     "No! Though it is as faint as one of Messier's spiral nebulae, it orbits about the sun along a familiar path. This must be another minor planet!",
     "Well, what shall you name this one? Last year, in 1851, you called your fourth asteroid Eunomia, one of the Horae of Greek mythology.",
     "Yes...and as I've discovered it in the same place, the Naples Observatory, it shall go by...Psyche. Named after the goddess of the soul.",
-    "Excellent! How does it feel to have discovered your 5th asteroid, and 16th asteroid in history?",
+    "Excellent! How does it feel to have discovered your 5th asteroid, and the 16th asteroid in history?",
     "Different somehow. I cannot describe it, but I feel that something peculiar about Psyche is yet to be known..."
   ];
 var pfpSrcArray = ["..\\assets\\gasPfp.PNG", "..\\assets\\defaultPfp.png", "..\\assets\\gasPfp.PNG", "..\\assets\\defaultPfp.png", "..\\assets\\gasPfp.PNG", "..\\assets\\defaultPfp.png", "..\\assets\\gasPfp.PNG"]
